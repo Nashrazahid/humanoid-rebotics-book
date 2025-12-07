@@ -31,7 +31,15 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- [ ] **Accuracy and correctness**: All technical claims and proposed solutions must be validated against official documentation or reliable sources.
+- [ ] **Clarity for beginners**: Plan must prioritize clear, simple, and beginner-friendly language.
+- [ ] **Practical guidance**: Plan must include specific, actionable steps and verifiable code examples.
+- [ ] **Consistency**: Plan must ensure consistency in terminology, structure, and formatting.
+- [ ] **Spec-Driven Development (SDD)**: Plan must adhere to SDD principles and integrate with Spec-Kit Plus workflows.
+- [ ] **Deployability and Reproducibility**: Plan must ensure the Docusaurus site builds without errors and is deployable to GitHub Pages.
+- [ ] **Technical Validation**: All technical design decisions must be backed by validation.
+- [ ] **Code Quality**: Plan must incorporate steps to ensure code samples are tested, reproducible, and error-free.
+- [ ] **Readability**: Plan structure must facilitate easy reading and comprehension.
 
 ## Project Structure
 

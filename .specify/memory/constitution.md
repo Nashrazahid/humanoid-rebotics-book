@@ -1,55 +1,53 @@
-# [PROJECT_NAME] Constitution
-<!-- Example: Spec Constitution, TaskFlow Constitution, etc. -->
+<!-- Sync Impact Report:
+Version change: 0.1.0 -> 0.2.0
+Modified principles: N/A
+Added sections: Constitution Alignment (spec-template), Constitution-Driven Task Guidelines (tasks-template)
+Removed sections: N/A
+Templates requiring updates:
+- .specify/templates/plan-template.md ✅ updated
+- .specify/templates/spec-template.md ✅ updated
+- .specify/templates/tasks-template.md ✅ updated
+- .specify/templates/commands/*.md ✅ not applicable (directory not found)
+Follow-up TODOs: N/A
+-->
+# Book on Humanoid Robotics Constitution
+
+Project: Book on Humanoid Robotics, covering fundamentals, design, kinematics, control systems, sensors, locomotion, and real-world applications.
 
 ## Core Principles
 
-### [PRINCIPLE_1_NAME]
-<!-- Example: I. Library-First -->
-[PRINCIPLE_1_DESCRIPTION]
-<!-- Example: Every feature starts as a standalone library; Libraries must be self-contained, independently testable, documented; Clear purpose required - no organizational-only libraries -->
+- Technical accuracy based on reliable robotics literature
+- Clear explanations suitable for beginners and intermediate learners
+- Focus on practical understanding and real-world examples
+- Consistent terminology throughout the book
 
-### [PRINCIPLE_2_NAME]
-<!-- Example: II. CLI Interface -->
-[PRINCIPLE_2_DESCRIPTION]
-<!-- Example: Every library exposes functionality via CLI; Text in/out protocol: stdin/args → stdout, errors → stderr; Support JSON + human-readable formats -->
+## Key Standards
 
-### [PRINCIPLE_3_NAME]
-<!-- Example: III. Test-First (NON-NEGOTIABLE) -->
-[PRINCIPLE_3_DESCRIPTION]
-<!-- Example: TDD mandatory: Tests written → User approved → Tests fail → Then implement; Red-Green-Refactor cycle strictly enforced -->
+- All technical claims must be validated using reputable robotics sources (research papers, textbooks, official docs)
+- Writing style: simple, structured, and beginner-friendly
+- Diagrams, examples, and code snippets must be correct and reproducible
+- Use clear hierarchy of headings and visuals for readability
 
-### [PRINCIPLE_4_NAME]
-<!-- Example: IV. Integration Testing -->
-[PRINCIPLE_4_DESCRIPTION]
-<!-- Example: Focus areas requiring integration tests: New library contract tests, Contract changes, Inter-service communication, Shared schemas -->
+## Constraints
 
-### [PRINCIPLE_5_NAME]
-<!-- Example: V. Observability, VI. Versioning & Breaking Changes, VII. Simplicity -->
-[PRINCIPLE_5_DESCRIPTION]
-<!-- Example: Text I/O ensures debuggability; Structured logging required; Or: MAJOR.MINOR.BUILD format; Or: Start simple, YAGNI principles -->
+- 10–12 chapters
+- Format: Docusaurus documentation site
+- Deployable to GitHub Pages
+- Avoid unnecessary jargon; explain each concept clearly
 
-### [PRINCIPLE_6_NAME]
+## Success Criteria
 
-
-[PRINCIPLE__DESCRIPTION]
-
-## [SECTION_2_NAME]
-<!-- Example: Additional Constraints, Security Requirements, Performance Standards, etc. -->
-
-[SECTION_2_CONTENT]
-<!-- Example: Technology stack requirements, compliance standards, deployment policies, etc. -->
-
-## [SECTION_3_NAME]
-<!-- Example: Development Workflow, Review Process, Quality Gates, etc. -->
-
-[SECTION_3_CONTENT]
-<!-- Example: Code review requirements, testing gates, deployment approval process, etc. -->
+- Complete humanoid robotics book generated and structured
+- Docusaurus site builds without errors
+- Successful GitHub Pages deployment
+- Content is accurate, understandable, and well-organized
 
 ## Governance
-<!-- Example: Constitution supersedes all other practices; Amendments require documentation, approval, migration plan -->
 
-[GOVERNANCE_RULES]
-<!-- Example: All PRs/reviews must verify compliance; Complexity must be justified; Use [GUIDANCE_FILE] for runtime development guidance -->
+This Constitution outlines the foundational principles and guidelines for the "Book on Humanoid Robotics" project.
+- All contributions (content, code, documentation) must align with these principles.
+- Amendments to this Constitution require a formal proposal, discussion, and consensus from project maintainers.
+- Any changes to core principles or standards must be documented with an updated version and last amended date.
+- Deviations from these principles must be explicitly justified and approved by project leadership.
 
-**Version**: [CONSTITUTION_VERSION] | **Ratified**: [RATIFICATION_DATE] | **Last Amended**: [LAST_AMENDED_DATE]
-<!-- Example: Version: 2.1.1 | Ratified: 2025-06-13 | Last Amended: 2025-07-16 -->
+**Version**: 0.1.0 | **Ratified**: 2025-12-06 | **Last Amended**: 2025-12-06

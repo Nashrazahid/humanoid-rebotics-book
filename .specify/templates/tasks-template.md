@@ -12,7 +12,17 @@ description: "Task list template for feature implementation"
 
 **Organization**: Tasks are grouped by user story to enable independent implementation and testing of each story.
 
+## Constitution-Driven Task Guidelines
+
+- **Accuracy**: Tasks involving technical claims or code examples MUST include verification steps.
+- **Clarity**: Task descriptions MUST be concise, simple, and understandable by beginners.
+- **Practicality**: Tasks MUST lead to tangible, hands-on outcomes (e.g., working code, verifiable documentation).
+- **Consistency**: Tasks MUST maintain consistent terminology and formatting, referencing the spec and plan where appropriate.
+- **SDD Focus**: Tasks MUST align with the principles of Spec-Driven Development and the use of Spec-Kit Plus.
+- **Reproducibility**: Tasks MUST ensure any generated code or documentation is reproducible and deployable (e.g., Docusaurus builds).
+
 ## Format: `[ID] [P?] [Story] Description`
+
 
 - **[P]**: Can run in parallel (different files, no dependencies)
 - **[Story]**: Which user story this task belongs to (e.g., US1, US2, US3)

@@ -100,7 +100,27 @@
 - **[Entity 1]**: [What it represents, key attributes without implementation]
 - **[Entity 2]**: [What it represents, relationships to other entities]
 
+
+## Constitution Alignment *(mandatory)*
+
+<!--
+  ACTION REQUIRED: Ensure this feature specification aligns with the project's core principles and standards.
+  Check each item below:
+-->
+
+- [ ] **Accuracy and correctness**: All technical claims and assumptions within this spec are validated.
+- [ ] **Clarity for beginners**: The language used is concise, simple, and beginner-friendly.
+- [ ] **Practical guidance**: The spec outlines requirements that support practical, hands-on guidance (e.g., testable examples).
+- [ ] **Consistency**: Terminology, structure, and formatting are consistent with the overall project.
+- [ ] **Spec-Driven Development (SDD)**: This spec adheres to SDD principles and integrates with Spec-Kit Plus workflows.
+- [ ] **Deployability and Reproducibility**: The feature specified contributes to a deployable and reproducible outcome (e.g., Docusaurus site, code examples).
+- [ ] **Technical Validation**: All requirements are technically feasible and validated.
+- [ ] **Writing Style**: The writing style is concise, simple, and beginner-friendly.
+- [ ] **Code Quality**: Requirements ensure that any associated code samples will be tested, reproducible, and error-free.
+- [ ] **Readability**: The spec is structured for easy reading and comprehension.
+
 ## Success Criteria *(mandatory)*
+
 
 <!--
   ACTION REQUIRED: Define measurable success criteria.
