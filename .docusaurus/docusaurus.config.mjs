@@ -7,10 +7,10 @@ export default {
   "title": "Humanoid Robotics: A Comprehensive Guide",
   "tagline": "Physical AI, Design, Control, and Applications",
   "favicon": "img/favicon.ico",
-  "url": "https://your-username.github.io",
+  "url": "https://humanoid-robotics-book.vercel.app",
   "baseUrl": "/humanoid-robotics-book/",
-  "organizationName": "your-organization",
-  "projectName": "humanoid-robotics-book",
+  "organizationName": "nashrazahid",
+  "projectName": "humanoid-rebotics-book",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "trailingSlash": true,
@@ -28,7 +28,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "C:\\Users\\Ms Computer\\OneDrive\\coding\\claude\\hackathon\\humanoid-rebotics-book\\sidebars.js",
-          "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/"
+          "editUrl": "https://github.com/nashrazahid/humanoid-robotics-book/edit/main/"
         },
         "blog": false,
         "theme": {
@@ -53,7 +53,7 @@ export default {
           "label": "Book Chapters"
         },
         {
-          "href": "https://github.com/your-username/humanoid-robotics-book",
+          "href": "https://github.com/nashrazahid/humanoid-robotics-book",
           "label": "GitHub",
           "position": "right"
         }
@@ -89,7 +89,7 @@ export default {
           "items": [
             {
               "label": "GitHub",
-              "href": "https://github.com/your-username/humanoid-robotics-book"
+              "href": "https://github.com/nashrazahid/humanoid-robotics-book"
             }
           ]
         }
