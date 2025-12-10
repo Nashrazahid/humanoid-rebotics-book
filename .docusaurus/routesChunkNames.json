@@ -1,0 +1,74 @@
+{
+  "/humanoid-robotics-book/docs/-a4d": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "bdf776bd"
+    }
+  },
+  "/humanoid-robotics-book/docs/-d5c": {
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
+  },
+  "/humanoid-robotics-book/docs/-efd": {
+    "__comp": "a94703ab"
+  },
+  "/humanoid-robotics-book/docs/module1/chapter1-what-is-physical-ai/-b46": {
+    "__comp": "17896441",
+    "content": "3d7165fa"
+  },
+  "/humanoid-robotics-book/docs/module1/chapter2-embodiment-perception-action/-5ba": {
+    "__comp": "17896441",
+    "content": "db272100"
+  },
+  "/humanoid-robotics-book/docs/module1/chapter3-robotics-system-components/-51a": {
+    "__comp": "17896441",
+    "content": "f743a9ef"
+  },
+  "/humanoid-robotics-book/docs/module1/chapter4-ai-models-in-physical-systems/-816": {
+    "__comp": "17896441",
+    "content": "3ffc91e9"
+  },
+  "/humanoid-robotics-book/docs/module2/chapter4-mechanical-design-principles/-119": {
+    "__comp": "17896441",
+    "content": "ddd34f21"
+  },
+  "/humanoid-robotics-book/docs/module2/chapter5-forward-inverse-kinematics/-f01": {
+    "__comp": "17896441",
+    "content": "9e16c148"
+  },
+  "/humanoid-robotics-book/docs/module2/chapter6-dynamics-motion-planning/-329": {
+    "__comp": "17896441",
+    "content": "6ca7b071"
+  },
+  "/humanoid-robotics-book/docs/module3/chapter7-control-architectures/-2d3": {
+    "__comp": "17896441",
+    "content": "fe8fd121"
+  },
+  "/humanoid-robotics-book/docs/module3/chapter8-sensor-systems-perception/-e18": {
+    "__comp": "17896441",
+    "content": "2ef83614"
+  },
+  "/humanoid-robotics-book/docs/module3/chapter9-actuation-advanced-control/-f32": {
+    "__comp": "17896441",
+    "content": "e167be6b"
+  },
+  "/humanoid-robotics-book/docs/module4/chapter10-humanoid-locomotion/-529": {
+    "__comp": "17896441",
+    "content": "2b25edf5"
+  },
+  "/humanoid-robotics-book/docs/module4/chapter11-human-robot-interaction/-f3b": {
+    "__comp": "17896441",
+    "content": "5cfa1af7"
+  },
+  "/humanoid-robotics-book/docs/module4/chapter12-future-trends-ethical-considerations/-fbb": {
+    "__comp": "17896441",
+    "content": "f33d1084"
+  },
+  "/humanoid-robotics-book/-7d5": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "0d84cec7"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "module1/chapter1-what-is-physical-ai",
+  "title": "What is Physical AI",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module1/chapter1-what-is-physical-ai.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/chapter1-what-is-physical-ai",
+  "permalink": "/humanoid-robotics-book/docs/module1/chapter1-what-is-physical-ai",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module1/chapter1-what-is-physical-ai.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "What is Physical AI",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Embodiment, Perception, and Action",
+    "permalink": "/humanoid-robotics-book/docs/module1/chapter2-embodiment-perception-action"
+  }
+}

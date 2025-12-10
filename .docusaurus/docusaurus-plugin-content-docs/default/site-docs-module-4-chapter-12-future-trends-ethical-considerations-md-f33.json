@@ -1,0 +1,24 @@
+{
+  "id": "module4/chapter12-future-trends-ethical-considerations",
+  "title": "Future Trends and Ethical Considerations",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module4/chapter12-future-trends-ethical-considerations.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/chapter12-future-trends-ethical-considerations",
+  "permalink": "/humanoid-robotics-book/docs/module4/chapter12-future-trends-ethical-considerations",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module4/chapter12-future-trends-ethical-considerations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Future Trends and Ethical Considerations",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Human-Robot Interaction and Task Execution",
+    "permalink": "/humanoid-robotics-book/docs/module4/chapter11-human-robot-interaction"
+  }
+}

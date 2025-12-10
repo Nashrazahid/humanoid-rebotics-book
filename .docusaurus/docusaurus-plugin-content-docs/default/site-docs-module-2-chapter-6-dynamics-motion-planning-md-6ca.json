@@ -1,0 +1,28 @@
+{
+  "id": "module2/chapter6-dynamics-motion-planning",
+  "title": "Dynamics and Motion Planning",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module2/chapter6-dynamics-motion-planning.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/chapter6-dynamics-motion-planning",
+  "permalink": "/humanoid-robotics-book/docs/module2/chapter6-dynamics-motion-planning",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module2/chapter6-dynamics-motion-planning.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Dynamics and Motion Planning",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Forward and Inverse Kinematics",
+    "permalink": "/humanoid-robotics-book/docs/module2/chapter5-forward-inverse-kinematics"
+  },
+  "next": {
+    "title": "Control Architectures for Humanoids",
+    "permalink": "/humanoid-robotics-book/docs/module3/chapter7-control-architectures"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module3/chapter9-actuation-advanced-control",
+  "title": "Actuation and Advanced Control",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module3/chapter9-actuation-advanced-control.md",
+  "sourceDirName": "module3",
+  "slug": "/module3/chapter9-actuation-advanced-control",
+  "permalink": "/humanoid-robotics-book/docs/module3/chapter9-actuation-advanced-control",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module3/chapter9-actuation-advanced-control.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Actuation and Advanced Control",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Sensor Systems and Perception",
+    "permalink": "/humanoid-robotics-book/docs/module3/chapter8-sensor-systems-perception"
+  },
+  "next": {
+    "title": "Humanoid Locomotion (Walking, Running, Balancing)",
+    "permalink": "/humanoid-robotics-book/docs/module4/chapter10-humanoid-locomotion"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module2/chapter4-mechanical-design-principles",
+  "title": "Mechanical Design Principles",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module2/chapter4-mechanical-design-principles.md",
+  "sourceDirName": "module2",
+  "slug": "/module2/chapter4-mechanical-design-principles",
+  "permalink": "/humanoid-robotics-book/docs/module2/chapter4-mechanical-design-principles",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module2/chapter4-mechanical-design-principles.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Mechanical Design Principles",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "AI Models in Physical Systems",
+    "permalink": "/humanoid-robotics-book/docs/module1/chapter4-ai-models-in-physical-systems"
+  },
+  "next": {
+    "title": "Forward and Inverse Kinematics",
+    "permalink": "/humanoid-robotics-book/docs/module2/chapter5-forward-inverse-kinematics"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module4/chapter11-human-robot-interaction",
+  "title": "Human-Robot Interaction and Task Execution",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module4/chapter11-human-robot-interaction.md",
+  "sourceDirName": "module4",
+  "slug": "/module4/chapter11-human-robot-interaction",
+  "permalink": "/humanoid-robotics-book/docs/module4/chapter11-human-robot-interaction",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module4/chapter11-human-robot-interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "title": "Human-Robot Interaction and Task Execution",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Humanoid Locomotion (Walking, Running, Balancing)",
+    "permalink": "/humanoid-robotics-book/docs/module4/chapter10-humanoid-locomotion"
+  },
+  "next": {
+    "title": "Future Trends and Ethical Considerations",
+    "permalink": "/humanoid-robotics-book/docs/module4/chapter12-future-trends-ethical-considerations"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "module1/chapter3-robotics-system-components",
+  "title": "Robotics System Components (Sensors, Actuators, Control)",
+  "description": "Learning Outcomes",
+  "source": "@site/docs/module1/chapter3-robotics-system-components.md",
+  "sourceDirName": "module1",
+  "slug": "/module1/chapter3-robotics-system-components",
+  "permalink": "/humanoid-robotics-book/docs/module1/chapter3-robotics-system-components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/humanoid-robotics-book/edit/main/docs/module1/chapter3-robotics-system-components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "title": "Robotics System Components (Sensors, Actuators, Control)",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Embodiment, Perception, and Action",
+    "permalink": "/humanoid-robotics-book/docs/module1/chapter2-embodiment-perception-action"
+  },
+  "next": {
+    "title": "AI Models in Physical Systems",
+    "permalink": "/humanoid-robotics-book/docs/module1/chapter4-ai-models-in-physical-systems"
+  }
+}
