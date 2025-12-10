@@ -1,0 +1,9 @@
+Docusaurus Social Card Image Placeholder
+
+This is where the 1200x630px social sharing image would be located.
+The image should contain:
+- Title: "Humanoid Robotics: A Comprehensive Guide"
+- Visual elements related to humanoid robotics
+- Branding consistent with the site
+
+Note: This is a placeholder text file. In a real implementation, this would be an actual image file.
