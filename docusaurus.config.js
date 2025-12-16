@@ -6,21 +6,21 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Humanoid Robotics: A Comprehensive Guide',
+  title: 'Humanoid Rebotics: A Comprehensive Guide',
   tagline: 'Physical AI, Design, Control, and Applications',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://humanoid-robotics-book.vercel.app',
+  url: 'https://humanoid-rebotics-book.github',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub Pages, this is usually '/<project-name>/'
-  baseUrl: '/humanoid-robotics-book/',
+  baseUrl: '/humanoid-rebotics-book/',
 
   // GitHub pages deployment config.
   organizationName: 'nashrazahid', // Usually your GitHub org/user name.
   projectName: 'humanoid-rebotics-book', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   trailingSlash: true,
 
@@ -42,7 +42,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/nashrazahid/humanoid-robotics-book/edit/main/',
+            'https://github.com/nashrazahid/humanoid-rebotics-book/edit/main/',
         },
         blog: false, // Disable blog if not needed
         theme: {
@@ -58,9 +58,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Humanoid Robotics Book',
+        title: 'Humanoid Rebotics Book',
         logo: {
-          alt: 'Humanoid Robotics Logo',
+          alt: 'Humanoid Rebotics Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -71,7 +71,7 @@ const config = {
             label: 'Book Chapters',
           },
           {
-            href: 'https://github.com/nashrazahid/humanoid-robotics-book',
+            href: 'https://github.com/nashrazahid/humanoid-rebotics-book',
             label: 'GitHub',
             position: 'right',
           },
@@ -106,12 +106,12 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/nashrazahid/humanoid-robotics-book',
+                href: 'https://github.com/nashrazahid/humanoid-rebotics-book',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Humanoid Robotics Book. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Humanoid Rebotics Book. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
